@@ -1,2 +1,2 @@
 # Packaged-C
-A compiler for packaged c which grammar like java.
+A compiler for Packaged C which grammar like java.
