@@ -1,5 +1,5 @@
 # Packaged C
-This is a new C farmily language which grammar support C & Java.
+This is a new C family language which grammar support C & Java.
 
 # Design purpose
 1.
