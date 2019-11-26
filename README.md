@@ -1,2 +1,11 @@
-# Packaged-C
-A compiler for Packaged C which grammar like java.
+# Packaged C
+This is a new C farmily language which grammar support C & Java.
+
+# Design purpose
+1.
+2.
+3.
+4.
+5.
+6.
+7.
